@@ -59,3 +59,18 @@ const prompt=require("prompt-sync")({sigint:true});
 //    }
 
 // ###########################################
+
+// function lifeInWeeks(age) {
+    
+//     ninetyDays = 32850
+//     ninetyWeeks = 4680
+//     ninetyMonths = 1080
+    
+//     age = prompt('How old are you?: ')
+//     days =  ninetyDays - (age * 365) 
+//     weeks = ninetyWeeks - (age * 52)
+//     months = ninetyMonths - (age * 12)
+//     console.log('You have '+days+' days,' +weeks+ " weeks, and "+months+" months left.");
+//     }
+
+//     lifeInWeeks();
