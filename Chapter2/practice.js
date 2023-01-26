@@ -74,3 +74,18 @@ const prompt=require("prompt-sync")({sigint:true});
 //     }
 
 //     lifeInWeeks();
+
+/////////////////////////////////////////////////////////
+function bmi(weight,height) {
+
+ bmi = (weight) / height**2    
+ console.log(bmi);
+}
+
+
+bmi(65,1.8)
+
+
+
+
+
