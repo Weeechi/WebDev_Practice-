@@ -16,7 +16,46 @@ const prompt=require("prompt-sync")({sigint:true});
 // var tweet = prompt("What is your Tweet?: ")
 // console.log(tweet.slice(0,10));
 // ###########################################
-var name = prompt('what is your name?: ')
-x = name.slice(0,1)
-x.toUpperCase()
-console.log("Hi Nice to meet you " + x.toUpperCase() + name.slice(1,4));
+// var name = prompt('what is your name?: ')
+// x = name.slice(0,1)
+// x.toUpperCase()
+// console.log("Hi Nice to meet you " + x.toUpperCase() + name.slice(1,4));
+
+
+// x = prompt('How old is your dog?: ')
+
+//  humanAge = (x - 2) * 4 + 21
+
+//  console.log("Your Dog is " + humanAge + " Years Old");
+
+// ###########################################
+
+// function main(){
+//     beeper();
+//    }
+    
+    
+//    function beeper(){
+//       putBeeper();
+//       move();
+//       turnLeft();
+//       move();
+//       putBeeper();
+//       turnRight();
+//       move();
+//       turnLeft();
+//       move();
+//       putBeeper();
+//       turnRight();
+//       move();
+//       turnLeft();
+//       move();
+//       putBeeper();
+//       turnRight();
+//       move();
+//       turnLeft();
+//       move();
+//       putBeeper();
+//    }
+
+// ###########################################
