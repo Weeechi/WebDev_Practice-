@@ -76,16 +76,26 @@ const prompt=require("prompt-sync")({sigint:true});
 //     lifeInWeeks();
 
 /////////////////////////////////////////////////////////
-function bmi(weight,height) {
+// function bmi(weight,height) {
 
- bmi = (weight) / height**2    
- console.log(bmi);
-}
+//  bmi = (weight) / height**2    
+//  console.log(bmi);
+// }
+// bmi(65,1.8)
 
+// function loveCal(nameOne, nameTwo) {
 
-bmi(65,1.8)
+//     nameOne = prompt('What are the names of Potential lover # 1? :')
+//     nameTwo = prompt('What are the names of Potential lover # 2? :')
 
+//     var n = Math.random()
+//     n * 100
+//     n = Math.floor(n) + 1
 
+//     console.log(nameOne +" & " + nameTwo + " Have " + n + "% chance of falling in love");
+// }
+
+// loveCal();
 
 
 
